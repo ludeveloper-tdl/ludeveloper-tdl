@@ -1,12 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Lutfullah</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
-- 🔭 I’m currently working at TestDevLab.com
-- 🌱 I’m currently learning vue.js
-- 🤔 I’m looking for help with angular, angular.js, react.js
 - 📫 How to reach me: ludeveloper.com
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="ludeveloper" /> </p>
 
